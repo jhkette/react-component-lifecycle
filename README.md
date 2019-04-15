@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-Just illutsrates how react component lifecyle works
+Just illustrates how react component lifecyle works
